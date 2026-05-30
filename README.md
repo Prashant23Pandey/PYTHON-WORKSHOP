@@ -140,6 +140,7 @@ Cannot start with digit
 Cannot use keywords
 
 Case-sensitive
+
 ---
 # 10. Taking User Input
 ```python
