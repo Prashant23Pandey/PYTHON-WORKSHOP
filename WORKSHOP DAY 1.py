@@ -38,4 +38,3 @@ print(type(fnum),type(snum))
 result= fnum + snum
 #print result
 print(result)
-
