@@ -133,10 +133,13 @@ Invalid:
 1name = "ABC"
 ```
 ### Rules
-✅ Can contain letters, digits, underscore
-✅ Cannot start with digit
-✅ Cannot use keywords
-✅ Case-sensitive
+Can contain letters, digits, underscore
+
+Cannot start with digit
+
+Cannot use keywords
+
+Case-sensitive
 ---
 # 10. Taking User Input
 ```python
