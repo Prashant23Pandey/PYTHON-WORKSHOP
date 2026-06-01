@@ -9,6 +9,7 @@ DAY 1 PYTHON-WORKSHOP
 <img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/cc73f69f-b438-4d15-ac81-5ad9e49667ee" />
 
 
+
 DAY 2 PYTHON-WORKSHOP
 
 <img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/06a0027f-3842-459a-91de-b594d6840ca4" />
