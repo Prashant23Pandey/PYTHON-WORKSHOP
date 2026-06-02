@@ -98,3 +98,42 @@ y = [2322,2325,2324]
 print("Before changing the values are: ",y)
 change(y)
 print("After changing the values are: ",y)
+def keyword(a,b,c):
+    print("a",a)
+    print("b",b)
+    print("c",c)
+    return
+keyword(1,2,3)
+keyword(a=10,b=20,c=20)
+keyword(a=100,b=200,c=200)
+#Demo of keyword arguement
+def keyword(a,b,c):
+    print("a",a)
+    print("b",b)
+    print("c",c)
+    return
+keyword(100,b=300,a=400)                  #Type Error
+def keyword(a,b,c):
+    print("a",a)
+    print("b",b)
+    print("c",c)
+    return
+keyword(a=100,b=300,400)                  #Type Error
+DEFAULT ARGUMENT
+Demo of default argument
+def project(name,language="python"):
+    print("project",name,"is developed using",language)
+    return
+project("Online exam system","java")
+project(name="Reservation System",language="C++")
+project("Election Data Analysis")
+project(language="java")
+#Demo of non keyword variable length argument
+def var_len(*var):
+    print("All the parameters are parked in tuple: ",var)
+    print("Accessing tuple elements one by one: ")
+    for v in var:
+        print(v)
+    return
+var_len(10)
+var_len(10,20,30,40,50)
