@@ -21,3 +21,5 @@ DAY 2 PYTHON-WORKSHOP
 <img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/603ad685-eb41-41bd-9b44-b43a330ec605" />
 
 <img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/b17e2074-41f6-4fb8-964e-8960617f2e15" />
+
+<img width="1916" height="1121" alt="image" src="https://github.com/user-attachments/assets/7a5fd36a-2f7c-42bf-a8de-eabe369143a4" />
