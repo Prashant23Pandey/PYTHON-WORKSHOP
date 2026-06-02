@@ -24,7 +24,7 @@ DAY 2 PYTHON-WORKSHOP
 
 ---
 
-DAY 2 PYTHON-WORKSHOP
+DAY 3 PYTHON-WORKSHOP
 
 <img width="1916" height="1121" alt="image" src="https://github.com/user-attachments/assets/7a5fd36a-2f7c-42bf-a8de-eabe369143a4" />
 
