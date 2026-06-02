@@ -46,5 +46,55 @@ def sqr(num):
     return num**2
 print(sqr(num))
 print(sqr.__doc__)
-
-
+#Program to calculate Simple Interest
+def sim_int(p,r,t):
+    si = p*r*t/100
+    return si
+s = sim_int(1000,10,3)
+print("Simple Interest is=",s)
+print("Simple Interest is=",sim_int(500,12,6))
+pi = int(input("Enter the Principal: "))
+ri = int(input("Enter the Rate: "))
+td = int(input("Enter the Time: "))
+sim = sim_int(pi,ri,td)
+print("Simple Interest is= ",sim)
+#Program to find whether x is divisible/not divisible by y
+def div(x,y):
+    if x%y==0:
+        print(x,"is divisible by",y)
+    else:
+        print(x,"is divisible by",y)
+div(12,4)
+div(8,3)
+div(9999,3)
+#Program to Count the number in a Digit
+def count(n):
+    if n == 0:
+        return 1
+    n = abs(n)              #converts a negative number to positive
+    count = 0
+    while n > 0:
+        n = n//10
+        count += 1  
+    return count
+number = 232323
+print("Number of digits:", count(number))
+#Program to Compute Factorial
+def fact(x):
+    f=1
+    for i in range(1,x+1):
+        f=f*i
+    return f
+n = int(input("Enter the value of n in nCr: "))
+r = int(input("Enter the value of r in nCr: "))
+c = fact(n) // (fact(r) * fact(n - r))
+print("value of",n,"C",r,"is",c)
+#Program to change list
+def change(x):
+    x[1]="2323"
+    print("Value Inside the Function",x)
+    return
+y = [2322,2325,2324]
+print("Before changing the values are: ",y)
+change(y)
+print("After changing the values are: ",y)
