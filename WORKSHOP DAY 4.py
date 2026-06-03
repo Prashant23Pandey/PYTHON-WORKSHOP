@@ -65,3 +65,40 @@ x = 3
 z = g(x)
 print('in main program scope: x=',x)
 print('in main program scope: z=',z)
+def g(x):
+    def h():
+        x = 'prashant pandey'
+    x = x + 1
+    print('in g(x): x=',x)
+    h()
+    return x
+x = 3
+z = g(x)
+def g(x):
+    def h(x):
+        x = x + 1
+        print("in h(x): x=",x) 
+    x = x + 1
+    print('in g(x): x=',x)
+    h(x)
+    return x
+x = 3
+z = g(x)
+print('in main program scope: x=',x)
+print('in main program scope: z=',z)
+#Function as argument
+def func_a():
+    print('inside func_a')
+def func_b(z):
+    print('inside func_c')
+    return z()
+print(func_b(func_a))
+#Recursion
+#Program to add n natural number using recursion
+def rec_add(n):
+    if n  == 1:
+        return 1
+    else:
+        return rec_add(n-1)+n
+n = int(input('Enter the term: '))
+print(rec_add(n))
