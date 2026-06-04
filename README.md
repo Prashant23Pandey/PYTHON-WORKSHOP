@@ -38,6 +38,8 @@ DAY 4 PYTHON-WORKSHOP
 
 <img width="1916" height="1125" alt="image" src="https://github.com/user-attachments/assets/db42c7d1-ebd9-4a50-8974-d99307ba3f86" />
 
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/6b297244-267f-440c-903a-79b189a44c72" />
+
 ---
 
 DAY 5 PYTHON-WORKSHOP
