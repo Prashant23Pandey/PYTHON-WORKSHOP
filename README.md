@@ -37,3 +37,9 @@ DAY 3 PYTHON-WORKSHOP
 DAY 4 PYTHON-WORKSHOP
 
 <img width="1916" height="1125" alt="image" src="https://github.com/user-attachments/assets/db42c7d1-ebd9-4a50-8974-d99307ba3f86" />
+
+---
+
+DAY 5 PYTHON-WORKSHOP
+
+<img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/7a1f0314-a1ff-4fd6-86fe-fc787bd3fc42" />
