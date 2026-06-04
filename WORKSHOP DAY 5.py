@@ -19,3 +19,13 @@ even_odd(23)
 even_odd(32)
 even_odd(7)
 even_odd(17)
+kvar=lambda**k: print(k)
+kvar()
+kvar(a=1,b=2,c=3,d=4,e=5)
+add=lambda x=10:(lambda y:x+y)
+a=add()
+print(a(20))
+#Passing Lambda Function to another user defined Function
+def show():
+    print(a(8))
+show(lambda x:x)
