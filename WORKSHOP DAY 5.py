@@ -54,3 +54,24 @@ from functools import reduce
 morning=[2,4,5,6,7,8,9,1,10]
 cs=reduce(lambda x,y : x + y, morning)
 print("Sum of elements in list is: ",cs)
+from functools import reduce
+li2 = [23, 24, 25, 26, 27]
+mx = reduce(lambda x, y: x if x > y else y, li2)
+print(mx)
+# Function to check if a number is prime
+def prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+try:
+    x = int(input("Enter start point of the range: "))
+    y = int(input("Enter end point of the range: "))
+    cs = list(range(x, y + 1))
+    prime_cs = list(filter(prime, cs))
+    print(f"All the prime numbers between {x} and {y} are: {prime_cs}")
+except ValueError:
+    print("Please enter valid integers.")
+print('Prashant Pandey')
