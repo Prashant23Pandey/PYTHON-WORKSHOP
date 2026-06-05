@@ -1,3 +1,8 @@
 #slicing
 s = 'Hello World'
 print(s[:-1])
+#Arithmetic
+L1=[1,2,3,4]
+L2=[5,6,7,8]
+#Merge
+print(L1+L2)
