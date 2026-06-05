@@ -45,3 +45,9 @@ DAY 5 PYTHON-WORKSHOP
 <img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/7a1f0314-a1ff-4fd6-86fe-fc787bd3fc42" />
 
 <img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/6b297244-267f-440c-903a-79b189a44c72" />
+
+---
+
+DAY 6 PYTHON-WORKSHOP
+
+<img width="959" height="557" alt="Screenshot 2026-06-05 120844" src="https://github.com/user-attachments/assets/bc0e3a1b-feab-4973-a227-2c9bc0977981" />
