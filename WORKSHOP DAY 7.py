@@ -88,3 +88,22 @@ try:
     print("Login Successfully")
 except AssertionError as e:
     print("error",e)
+# Python writing files (.txt, .json, .csv)
+text_data = "I like pizza"
+file_path = "Output.txt"                                #relative path
+with open(file_path, "w") as file:
+    file.write(text_data)
+    print(f"txt file {file_path} is created")
+file_path="/User/prashant/Dekstop/Output.txt"
+try:
+    with open(file_path,"r") as file:
+        content= file.read()
+        print(content)
+except FileNotFoundError:
+    print("That file was not found")
+import csv
+file_path="/User/prashant/Dekstop/Output.txt"
+try:
+    with open(file_path."r") as file:
+        content= csv
+#Delete all files
