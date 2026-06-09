@@ -59,3 +59,9 @@ DAY 7 PYTHON-WORKSHOP
 <img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/9267b24a-5b10-4139-99e4-ee014f92aeed" />
 
 <img width="958" height="563" alt="image" src="https://github.com/user-attachments/assets/42e0e4f7-4503-4b98-aae8-060f8f31593f" />
+
+---
+
+DAY 9 PYTHON-WORKSHOP
+
+<img width="958" height="560" alt="image" src="https://github.com/user-attachments/assets/c8afe8b7-4606-45ba-ad61-b99461835cf0" />
