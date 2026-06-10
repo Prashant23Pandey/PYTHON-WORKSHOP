@@ -49,3 +49,33 @@ Hi, how can I help you?
         self.menu()
 # Create ATM object
 atm = Atm()
+def __init__add(self,other):
+    new_num    = self.num*other.den + other.num*self.den
+    new_den = self.den*other.den
+    return '()/{}'.format(new_num,new_den)
+class Person:
+    def __init__(self, name, gender):
+        self.name = name
+        self.gender = gender
+def greet(p):
+    print('Hi my name is', p.name, 'and I am a', p.gender)
+    p1 = Person('Rahul', 'Male')
+    return p1
+p = Person('Prashant Pandey', 'Male')
+X = greet(p)
+print(X.name)
+print(X.gender)
+#Is Object Mutable
+class Cirle:
+    pi = 3.14
+    def __init__(self,radius):
+        self.radius = radius
+    def area(self):
+        return Circle.pi*self.radius*self.radius
+    def circumference(self):
+        return 2*Circle.pi*self.radius
+    def display(self):
+        print("Area ="round(self)
+        circumference = self.circumference
+        constant.pi = self.constantpi
+        area = self.area
