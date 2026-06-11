@@ -71,3 +71,12 @@ DAY 9 PYTHON-WORKSHOP
 DAY 10 PYTHON-WORKSHOP
 
 <img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/f2856f3d-9b16-4a04-8929-54cedb42e020" />
+
+---
+
+DAY 11 PYTHON-WORKSHOP
+
+<img width="959" height="560" alt="Screenshot 2026-06-11 141342" src="https://github.com/user-attachments/assets/837d42c2-bead-4a7f-9aad-ad7a3336916b" />
+
+<img width="959" height="563" alt="Screenshot 2026-06-11 141352" src="https://github.com/user-attachments/assets/9361eadb-170c-4988-bfe1-2380b9c8b21f" />
+
