@@ -80,4 +80,10 @@ DAY 11 PYTHON-WORKSHOP
 
 <img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/cd3c1296-af9c-4431-b7b7-8087f22f647d" />
 
+---
 
+DAY 12 PYTHON-WORKSHOP
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/1cdac820-5f18-454c-8520-b11ebd66b0fc" />
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/5826ed0b-fc82-486e-9b5a-532eab242f1e" />
